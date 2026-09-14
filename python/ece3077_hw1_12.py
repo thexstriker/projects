@@ -24,4 +24,4 @@ for i in range(2):
                         print(str(count) + " " + (str(i) + str(j) + str(k) + str(l) + str(m) + str(n)) + " " + str(sum) + (" TRUE" if sum>20 else " FALSE"))
                         count+=1
 
-
+print("CONTIRUBTUIONSFFOSEFJOISFJEO")
